@@ -1,2 +1,2 @@
-# My-Projects
-These all are my data science and operational research projects
+# Economatrics Project
+This is regression project.
